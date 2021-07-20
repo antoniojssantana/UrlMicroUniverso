@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cREQf1KmR0Bc1hpJykrM75f+STyDP/qJPpxq92edj2/6ifLhXvlz+/desBG0mWwbK7KQQ+YF8CV6Z2pGlb0WQg==",
+  "dgSpecHash": "Iwe02aICqtdbADMD4ujWx7RKT0eUfFxf0pS3e+s0s7Ti0DO1AQt/IxCQ09gYaMnV3qWWV1IFrmREvhY6CAezCg==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\url.business\\url.business.csproj",
+  "projectFilePath": "C:\\Projetos\\URL\\url.business\\url.business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\anton\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512"
+    "C:\\Users\\Valdir Leanderson\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512"
   ],
   "logs": []
 }
