@@ -3190,19 +3190,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\anton\\.nuget\\packages\\": {}
+    "C:\\Users\\Valdir Leanderson\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\UrlAPI\\UrlAPI.csproj",
+      "projectUniqueName": "C:\\Projetos\\URL\\UrlAPI\\UrlAPI.csproj",
       "projectName": "UrlAPI",
-      "projectPath": "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\UrlAPI\\UrlAPI.csproj",
-      "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\UrlAPI\\obj\\",
+      "projectPath": "C:\\Projetos\\URL\\UrlAPI\\UrlAPI.csproj",
+      "packagesPath": "C:\\Users\\Valdir Leanderson\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\URL\\UrlAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Valdir Leanderson\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3216,11 +3216,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\sga.utils\\sga.utils.csproj": {
-              "projectPath": "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\sga.utils\\sga.utils.csproj"
+            "C:\\Projetos\\URL\\sga.utils\\sga.utils.csproj": {
+              "projectPath": "C:\\Projetos\\URL\\sga.utils\\sga.utils.csproj"
             },
-            "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\url.data\\url.data.csproj": {
-              "projectPath": "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\url.data\\url.data.csproj"
+            "C:\\Projetos\\URL\\url.data\\url.data.csproj": {
+              "projectPath": "C:\\Projetos\\URL\\url.data\\url.data.csproj"
             }
           }
         }
@@ -3292,7 +3292,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

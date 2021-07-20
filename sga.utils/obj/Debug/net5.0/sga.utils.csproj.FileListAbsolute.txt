@@ -22,3 +22,14 @@ D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\sga.utils\obj\Debug\net
 D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\sga.utils\obj\Debug\net5.0\ref\sga.utils.dll
 D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\sga.utils\obj\Debug\net5.0\sga.utils.pdb
 D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\sga.utils\obj\Debug\net5.0\sga.utils.csproj.AssemblyReference.cache
+C:\Projetos\URL\sga.utils\bin\Debug\net5.0\sga.utils.deps.json
+C:\Projetos\URL\sga.utils\bin\Debug\net5.0\sga.utils.dll
+C:\Projetos\URL\sga.utils\bin\Debug\net5.0\ref\sga.utils.dll
+C:\Projetos\URL\sga.utils\bin\Debug\net5.0\sga.utils.pdb
+C:\Projetos\URL\sga.utils\obj\Debug\net5.0\sga.utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\URL\sga.utils\obj\Debug\net5.0\sga.utils.AssemblyInfoInputs.cache
+C:\Projetos\URL\sga.utils\obj\Debug\net5.0\sga.utils.AssemblyInfo.cs
+C:\Projetos\URL\sga.utils\obj\Debug\net5.0\sga.utils.csproj.CoreCompileInputs.cache
+C:\Projetos\URL\sga.utils\obj\Debug\net5.0\sga.utils.dll
+C:\Projetos\URL\sga.utils\obj\Debug\net5.0\ref\sga.utils.dll
+C:\Projetos\URL\sga.utils\obj\Debug\net5.0\sga.utils.pdb
