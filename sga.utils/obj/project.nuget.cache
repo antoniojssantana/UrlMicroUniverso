@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "cz+37HnviIC74SulCzexM3CDEPYGu+H61yPI/TTrPleATojoxtuP2k3x3mnQ3kJvoYszCLvWJK3QvLqbQh51Kw==",
+  "dgSpecHash": "clAtsXLy0hl4NqUPbXJzf9ictRyNaRFTb/j5GOWfu4IvJ0yykzC4wdyjOs0FYCSZaU5vXvftMFNetwHYP0KSbA==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\sga.utils\\sga.utils.csproj",
+  "projectFilePath": "C:\\Projetos\\MicroUniverso\\sga.utils\\sga.utils.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
-    "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+    "C:\\Users\\Valdir Leanderson\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Valdir Leanderson\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Valdir Leanderson\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Valdir Leanderson\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

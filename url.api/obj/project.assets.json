@@ -7100,19 +7100,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\anton\\.nuget\\packages\\": {}
+    "C:\\Users\\Valdir Leanderson\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\url.api\\url.api.csproj",
+      "projectUniqueName": "C:\\Projetos\\MicroUniverso\\url.api\\url.api.csproj",
       "projectName": "url.api",
-      "projectPath": "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\url.api\\url.api.csproj",
-      "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\url.api\\obj\\",
+      "projectPath": "C:\\Projetos\\MicroUniverso\\url.api\\url.api.csproj",
+      "packagesPath": "C:\\Users\\Valdir Leanderson\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\MicroUniverso\\url.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Valdir Leanderson\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7126,14 +7126,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\sga.utils\\sga.utils.csproj": {
-              "projectPath": "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\sga.utils\\sga.utils.csproj"
+            "C:\\Projetos\\MicroUniverso\\sga.utils\\sga.utils.csproj": {
+              "projectPath": "C:\\Projetos\\MicroUniverso\\sga.utils\\sga.utils.csproj"
             },
-            "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\url.business\\url.business.csproj": {
-              "projectPath": "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\url.business\\url.business.csproj"
+            "C:\\Projetos\\MicroUniverso\\url.business\\url.business.csproj": {
+              "projectPath": "C:\\Projetos\\MicroUniverso\\url.business\\url.business.csproj"
             },
-            "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\url.data\\url.data.csproj": {
-              "projectPath": "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\url.data\\url.data.csproj"
+            "C:\\Projetos\\MicroUniverso\\url.data\\url.data.csproj": {
+              "projectPath": "C:\\Projetos\\MicroUniverso\\url.data\\url.data.csproj"
             }
           }
         }
@@ -7221,7 +7221,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
