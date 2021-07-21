@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  url.api:
+    image: ${DOCKER_REGISTRY-}urlapi
+    build:
+      context: .
+      dockerfile: url.api/Dockerfile

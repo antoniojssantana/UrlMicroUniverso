@@ -24,7 +24,7 @@ namespace sga.utils
             string line;
             try
             {
-                using (System.IO.StreamReader htmlReader = new System.IO.StreamReader(Generator.Base64Decode(_EmailSettings.FolderTemplate) + _pathHtml))
+                using (System.IO.StreamReader htmlReader = new System.IO.StreamReader(_EmailSettings.FolderTemplate + _pathHtml))
                 {
                     while ((line = htmlReader.ReadLine()) != null)
                     {

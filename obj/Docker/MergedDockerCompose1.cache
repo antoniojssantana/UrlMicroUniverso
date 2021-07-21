@@ -1,0 +1,50 @@
+services:
+  postgres:
+    container_name: urlmicro-db
+    environment:
+      POSTGRES_DB: urlmicro
+      POSTGRES_PASSWORD: fccO2606
+    image: postgres:13-alpine
+    ports:
+    - published: 25432
+      target: 5432
+    volumes:
+    - D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\.container-data\postgres:/var/lib/postgresql/data:rw
+  url.api:
+    build:
+      context: D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico
+      dockerfile: url.api/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: url.api
+      target: base
+    container_name: url.api
+    entrypoint: tail -f /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      DOTNET_USE_POLLING_FILE_WATCHER: '1'
+      NUGET_FALLBACK_PACKAGES: ''
+    image: urlapi:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages  "/app/bin/Debug/net5.0/url.api.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    ports:
+    - published: 6000
+      target: 80
+    - published: 6001
+      target: 443
+    tty: true
+    volumes:
+    - D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.api:/app:rw
+    - D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\.container-data\store:/app/store:rw
+    - C:\Users\anton\vsdbg\vs2017u5:/remote_debugger:rw
+    - C:\Users\anton\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\anton\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+    - C:\Users\anton\.nuget\packages:/root/.nuget/packages:ro
+    - D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico:/src:rw
+version: '3.4'

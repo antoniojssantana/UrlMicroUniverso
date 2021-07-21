@@ -1,0 +1,24 @@
+version: '3.4'
+
+services:
+  url.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=https://+:443;http://+:80
+    ports:
+      - "6000:80"
+      - "6001:443"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ".container-data/store:/app/store"
+  postgres:
+    container_name: "urlmicro-db"
+    image: "postgres:13-alpine" 
+    volumes:
+      - ".container-data/postgres:/var/lib/postgresql/data"
+    ports:
+      - "25432:5432"
+    environment:
+      POSTGRES_PASSWORD: fccO2606
+      POSTGRES_DB: urlmicro

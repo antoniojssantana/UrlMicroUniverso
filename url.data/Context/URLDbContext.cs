@@ -10,7 +10,7 @@ namespace url.data.Context
 {
     public class URLDbContext : DbContext
     {
-        public DbSet<UserBaseModel> UsersBase { get; set; }
+        public DbSet<UserBaseModel> UsersBases { get; set; }
         public URLDbContext(DbContextOptions<URLDbContext> options) : base(options)
         {
         }

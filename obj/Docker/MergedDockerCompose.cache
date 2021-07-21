@@ -1,0 +1,30 @@
+services:
+  postgres:
+    container_name: urlmicro-db
+    environment:
+      POSTGRES_DB: urlmicro
+      POSTGRES_PASSWORD: fccO2606
+    image: postgres:13-alpine
+    ports:
+    - published: 25432
+      target: 5432
+    volumes:
+    - D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\.container-data\postgres:/var/lib/postgresql/data:rw
+  url.api:
+    build:
+      context: D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico
+      dockerfile: url.api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: urlapi
+    ports:
+    - published: 6000
+      target: 80
+    - published: 6001
+      target: 443
+    volumes:
+    - D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\.container-data\store:/app/store:rw
+    - C:\Users\anton\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\anton\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'
