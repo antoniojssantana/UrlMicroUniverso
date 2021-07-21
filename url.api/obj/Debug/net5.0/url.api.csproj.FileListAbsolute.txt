@@ -1,0 +1,6 @@
+D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.api\obj\Debug\net5.0\url.api.csproj.AssemblyReference.cache
+D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.api\obj\Debug\net5.0\url.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.api\obj\Debug\net5.0\url.api.AssemblyInfoInputs.cache
+D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.api\obj\Debug\net5.0\url.api.AssemblyInfo.cs
+D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.api\obj\Debug\net5.0\url.api.csproj.CoreCompileInputs.cache
+D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.api\obj\Debug\net5.0\url.api.MvcApplicationPartsAssemblyInfo.cache

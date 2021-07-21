@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0E8MeXhPRrBXtMmHSu16f42hS8GkpGTBjirgBbFAN11l9q38o2W4GqfxGucNv1gJzxgSwskgd4LjfjL4EBrQMA==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\MicroUniverso\\Fontes\\BackEnd\\URLMicroServico\\url.api\\url.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
