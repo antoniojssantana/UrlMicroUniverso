@@ -21,17 +21,6 @@ C:\Projetos\URL\sga.utils\obj\Debug\net5.0\sga.utils.csproj.CoreCompileInputs.ca
 C:\Projetos\URL\sga.utils\obj\Debug\net5.0\sga.utils.dll
 C:\Projetos\URL\sga.utils\obj\Debug\net5.0\ref\sga.utils.dll
 C:\Projetos\URL\sga.utils\obj\Debug\net5.0\sga.utils.pdb
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\sga.utils\bin\Debug\net5.0\sga.utils.deps.json
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\sga.utils\bin\Debug\net5.0\sga.utils.dll
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\sga.utils\bin\Debug\net5.0\ref\sga.utils.dll
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\sga.utils\bin\Debug\net5.0\sga.utils.pdb
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\sga.utils\obj\Debug\net5.0\sga.utils.GeneratedMSBuildEditorConfig.editorconfig
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\sga.utils\obj\Debug\net5.0\sga.utils.AssemblyInfoInputs.cache
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\sga.utils\obj\Debug\net5.0\sga.utils.AssemblyInfo.cs
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\sga.utils\obj\Debug\net5.0\sga.utils.csproj.CoreCompileInputs.cache
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\sga.utils\obj\Debug\net5.0\sga.utils.dll
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\sga.utils\obj\Debug\net5.0\ref\sga.utils.dll
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\sga.utils\obj\Debug\net5.0\sga.utils.pdb
 C:\Projetos\MicroUniverso\sga.utils\bin\Debug\net5.0\sga.utils.deps.json
 C:\Projetos\MicroUniverso\sga.utils\bin\Debug\net5.0\sga.utils.dll
 C:\Projetos\MicroUniverso\sga.utils\bin\Debug\net5.0\ref\sga.utils.dll
