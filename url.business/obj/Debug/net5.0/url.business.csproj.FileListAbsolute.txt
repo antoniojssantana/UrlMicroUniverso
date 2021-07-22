@@ -10,17 +10,6 @@ C:\Projetos\URL\url.business\bin\Debug\net5.0\url.business.pdb
 C:\Projetos\URL\url.business\obj\Debug\net5.0\url.business.dll
 C:\Projetos\URL\url.business\obj\Debug\net5.0\ref\url.business.dll
 C:\Projetos\URL\url.business\obj\Debug\net5.0\url.business.pdb
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.business\bin\Debug\net5.0\url.business.deps.json
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.business\bin\Debug\net5.0\url.business.dll
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.business\bin\Debug\net5.0\ref\url.business.dll
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.business\bin\Debug\net5.0\url.business.pdb
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.business\obj\Debug\net5.0\url.business.GeneratedMSBuildEditorConfig.editorconfig
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.business\obj\Debug\net5.0\url.business.AssemblyInfoInputs.cache
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.business\obj\Debug\net5.0\url.business.AssemblyInfo.cs
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.business\obj\Debug\net5.0\url.business.csproj.CoreCompileInputs.cache
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.business\obj\Debug\net5.0\url.business.dll
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.business\obj\Debug\net5.0\ref\url.business.dll
-D:\Projetos\MicroUniverso\Fontes\BackEnd\URLMicroServico\url.business\obj\Debug\net5.0\url.business.pdb
 C:\Projetos\MicroUniverso\url.business\bin\Debug\net5.0\url.business.deps.json
 C:\Projetos\MicroUniverso\url.business\bin\Debug\net5.0\url.business.dll
 C:\Projetos\MicroUniverso\url.business\bin\Debug\net5.0\ref\url.business.dll
